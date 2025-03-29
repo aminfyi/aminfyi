@@ -1,1 +1,1 @@
-Data Engineer & Architect, sharing code and notes on data engineering. 
+Sharing code and notes on data engineering. 
